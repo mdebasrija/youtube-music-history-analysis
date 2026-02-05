@@ -21,6 +21,6 @@ Standard scraping failed due to YouTube's dynamic JavaScript rendering. My solut
 
 ## Tools Used
 
--   **R:** `tidyverse`, `rvest`, `jsonlite`
--   **Visualization:** Tableau
+-   **R:** `tidyverse`, `rvest`, `jsonlite`, `purrr`
+-   **Visualization:** `ggplot2`, Tableau
 
