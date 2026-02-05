@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Personal Data - do not upload
+*.json
+*.csv
+# Project specific
+yt_music_cleaned.csv
