@@ -24,3 +24,4 @@ Standard scraping failed due to YouTube's dynamic JavaScript rendering. My solut
 -   **R:** `tidyverse`, `rvest`, `jsonlite`, `purrr`
 -   **Visualization:** `ggplot2`, Tableau
 
+Note: This has only gone to the point where I have finished the scraping and cleaning. This will be updated with analysis details.
